@@ -1,0 +1,7 @@
+{
+  "name": "FakeRoles",
+  "description": "Spoof roles on your profile card. Display only — nobody else sees it.",
+  "authors": [{ "name": "LILBIG4DEV", "id": "000000000000000000" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_badge_staff" }
+}
